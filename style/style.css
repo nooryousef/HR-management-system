@@ -1,0 +1,43 @@
+#logo {
+    width:30px;
+
+}
+h1 {
+    text-align: center;
+
+}
+ul {
+    list-style-type: none;
+    margin: 0px;
+    background-color: rgb(9, 163, 99);
+    display:block;
+    padding: 30px;
+
+}
+li{
+    display: inline;
+    padding: 40px;
+
+}
+li a:hover{
+    color: cornsilk;
+}
+li a {
+    text-decoration: none;
+}
+
+footer  {
+       text-align: center;
+       justify-content: center;
+       left: 0;
+       bottom: 0;
+       width: 100%;
+    }
+    #d1 {
+        position: fixed;
+    }
+    
+    #f {
+        padding: 30px ;
+    }
+    
