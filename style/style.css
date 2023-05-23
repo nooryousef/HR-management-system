@@ -4,8 +4,7 @@
 }
 h1 {
     text-align: center;
-
-}
+};
 ul {
     list-style-type: none;
     margin: 0px;
@@ -13,39 +12,39 @@ ul {
     display:block;
     padding: 30px;
 
-}
+};
 li{
     display: inline;
     padding: 40px;
 
-}
+};
 li a:hover{
     color: rgb(218, 200, 131);
-}
+};
 li a {
     text-decoration: none;
-}
-
-
+};
     #d1 {
         position: fixed;
-    }
+    };
     
     #f {
         padding: 30px ;
-    }
+    };
     
-    footer  {
-        justify-content: center;
-    text-align: center;
-        left: 0;
-        bottom: 0px;
-        width: 100%;
-        position:absolute
+   footer {
+   
+    
+           text-align: center;
+           justify-content: center;
+           width: 100%;
+           position: absolute;
+           margin-top:100%;
+        };
+        
 
-    
-    
-     }   
+
+
   
 
    
