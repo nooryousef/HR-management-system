@@ -12,25 +12,25 @@ ul {
     display:block;
     padding: 30px;
 
-};
+}
 li{
     display: inline;
     padding: 40px;
 
-};
+}
 li a:hover{
     color: rgb(218, 200, 131);
-};
+}
 li a {
     text-decoration: none;
-};
+}
     #d1 {
         position: fixed;
     };
     
     #f {
         padding: 30px ;
-    };
+    }
     
    footer {
    
@@ -40,7 +40,7 @@ li a {
            width: 100%;
            position: absolute;
            margin-top:100%;
-        };
+        }
         
 
 
