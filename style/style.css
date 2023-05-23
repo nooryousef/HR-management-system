@@ -19,20 +19,22 @@ li {
 }
 li a:hover{
     color: rgb(218, 200, 131);
-    
+
 }
 li a {
     text-decoration: none;
 }
-    #d1 {
 
+    #d1 {
         position: fixed;
     }
+
     
     #f {
         padding: 30px ;
     }
     
+
    footer {
            text-align: center;
            justify-content: center;
