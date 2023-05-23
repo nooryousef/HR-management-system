@@ -20,19 +20,13 @@ li{
 
 }
 li a:hover{
-    color: cornsilk;
+    color: rgb(218, 200, 131);
 }
 li a {
     text-decoration: none;
 }
 
-footer  {
-       text-align: center;
-       justify-content: center;
-       left: 0;
-       bottom: 0;
-       width: 100%;
-    }
+
     #d1 {
         position: fixed;
     }
@@ -41,3 +35,17 @@ footer  {
         padding: 30px ;
     }
     
+    footer  {
+        justify-content: center;
+    text-align: center;
+        left: 0;
+        bottom: 0px;
+        width: 100%;
+        position:absolute
+
+    
+    
+     }   
+  
+
+   
