@@ -38,6 +38,8 @@ Employment.prototype.idnumber = function () {
 
 
                 document.write( `employee name : ${this.name}  <br>   Department : ${this.Department}  <br> Employee salary : ${this.Salary()}  <br> ` )
+           document.write(`</br> ` )
+           
             }
 
 
