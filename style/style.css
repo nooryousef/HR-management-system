@@ -1,14 +1,16 @@
 #logo {
-    width:30px;
+    width: 30px;
 }
+
 h1 {
     text-align: center;
 }
+
 ul {
     list-style-type: none;
     margin: 0px;
     background-color: rgb(9, 163, 99);
-    display:block;
+    display: block;
     padding: 30px;
 }
 
@@ -17,37 +19,44 @@ li {
     padding: 40px;
 
 }
-li a:hover{
-    color: rgb(218, 200, 131);
+
+li a:hover {
+    color: #dce6b3;
 
 }
+
 li a {
     text-decoration: none;
 }
 
-    #d1 {
-        position: fixed;
-    }
-
-    
-    #f {
-        padding: 30px ;
-    }
-    
-
-   footer {
-           text-align: center;
-           justify-content: center;
-           width: 100%;
-           position: absolute;
-           margin-top:100%;
-    
-           
-        }
-        
+#d1 {
+    position: fixed;
+}
 
 
 
-  
 
-   
+
+footer {
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+    position: absolute;
+
+
+}
+
+main {
+    display: flex;
+    /* justify-content: center;
+            padding-top: 20px;
+            padding-bottom: 10px; */
+    flex-wrap: wrap;
+    /* flex-direction:row; */
+
+}
+
+/* .card {
+    flex: 0 0 33%;
+    flex-wrap: wrap;
+} */
